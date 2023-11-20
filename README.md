@@ -1,2 +1,3 @@
 # Oaisis-Infobyte-Tasklist
-This is my Oasis Infobyte Graohic Designer Internship assignment. I had been given a task to design logos, Flyers,Posters, Business Cards, Magazine Cover page,etc to know about the design layout and accquire knowledge about the Professional Designing. I have also accquired knowledge about UI/UX Designing.
+This is the graphic design internship task I have for Oasis Infobyte. I was assigned to create logos, flyers, posters, business cards, magazine cover pages, and other materials in order to expand my knowledge of professional design and design layout. Additionally, I now know more about UI/UX design.
+
